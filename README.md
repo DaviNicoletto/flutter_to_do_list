@@ -6,7 +6,7 @@ Consiste em uma interface de criação de lembretes, permitindo ao usuário cria
 
 ## Como executar:
 
-Para executar e visualizar a aplicação basta realizar a instalação do app, disponível no [Google Drive](https://drive.google.com/file/d/1b5x7psp8didUH_tcaU-E_6zQGTnRNjVe/view?usp=sharing).
+Para executar e visualizar a aplicação basta realizar a instalação do app, disponível no [Google Drive](https://drive.google.com/file/d/1WfdRvDLP7C7iUxWHS87ujAs4p2RUR5RG/view?usp=sharing).
 
 **Observação importante:**
 - É provável que o sistema do telefone reconheça o app como potencialmente nocivo, por ter sido baixado por fora. Entretanto é seguro realizar a instalação.
